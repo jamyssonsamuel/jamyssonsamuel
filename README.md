@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Jâmysson Samuel
 
-**`Desenvolvedor Fullstack`**
+**`Desenvolvedor Web Full-Stack`**
 
 Olá, me chamo Jâmysson Samuel. Sou Técnico em Informática recém-formado pelo IFPE Campus Garanhuns, com foco no desenvolvimento de soluções web eficientes e escaláveis. Minha trajetória acadêmica foi consolidada pela aprovação com nota máxima no meu TCC, onde idealizei e escrevi sobre um Sistema Web para Gerenciamento de Projetos Acadêmicos utilizando a metodologia Design Science Research (DSR). 
 Tenho experiência prática no desenvolvimento Full-Stack com HTML5, CSS3, JavaScript e Java, além de modelagem e manipulação de dados em PostgreSQL. 
